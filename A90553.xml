@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition and articles exhibitied by the parishioners of Pont Iland and others in the county of Northumberland, against Dr. Gray, vicar of the said parish. Vnto the honourable, the House of Commons assembled in Parliament. March 15th. 1641.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90553</idno><idno type="EEBO-CITATION">99870547</idno>
+  <idno type="VID">156540</idno>
+  <idno type="EEBO-PROQUEST">2240931337</idno>
+  
+            <idno type="STC">Wing P1735</idno>
+            <idno type="STC">Thomason E140_13</idno>
+            <idno type="STC">ESTC R21187</idno>
+            <idno type="PROQUEST">99870547</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99870547e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90553)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156540)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E140[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition and articles exhibitied by the parishioners of Pont Iland and others in the county of Northumberland, against Dr. Gray, vicar of the said parish. Vnto the honourable, the House of Commons assembled in Parliament. March 15th. 1641.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Gray, Thomas, b. 1588 or 9 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons. --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Clergy --  Early works to 1800.</term>
+               <term type="corporate_name">Church of England --  Customs and practices --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Pont-Island --  History --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156540:1"/>
+            <p>THE PETITION AND ARTICLES Exhibited by the Parishioners of <hi>Pont Iland</hi> and others in the County of <hi>Northum<g ref="char:EOLhyphen"/>berland,</hi> against Dr. <hi>Gray,</hi> Vicar of the said Parish.</p>
+            <p>Vnto the Honourable, the House of Commons Assembled in PARLIAMENT.</p>
+            <p>
+               <hi>March,</hi> 15th. 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156540:2"/>
+            <pb facs="tcp:156540:2"/>
+            <head>To the Honourable the Commons House now assembled in Parliament.</head>
+            <head type="sub">
+               <hi>The humble Petition of the Parishioners of the Parish of </hi>Pont Island<hi> and others in the County of </hi>Northumberland.</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat about 15. or 16. yeares since one <hi>Thomas Gray</hi> the reputed Bastard of one Mr. <hi>Phillip Gray,</hi> Symoniacally having got the Viccaridge of the said Parish hath since continued Vicar there, be<g ref="char:EOLhyphen"/>ing very scandalous both in Life and Doctrine, &amp; there<g ref="char:EOLhyphen"/>by a great offence, burthen▪ and oppression to the said Parish by his new erected Altar, East-worshipping, Popish consecration of the Sacra<g ref="char:EOLhyphen"/>ment, Secondly, Service not preaching, wilfull neglect of his Cure, Popish Doctrines, double Beneficed, non-residence from both Cures, oppression of the Parish, familiarity and countenancing with Papists, prosecution of some Parishioners in the high Cōmission. And Lastly, by cheating the said Parish and other places of mony payd to them by the <hi>Scots</hi> for your Petitioners and others, in recompence of their charges, as by the Articles hereunto annexed more at large appeareth: Whereby the said Mr. <hi>Gray</hi> hath been a great and intollerable offence, burthen, and oppression to the said Parish both in their Soules and Bodies.</p>
+            <pb facs="tcp:156540:3"/>
+            <p>
+               <hi>Your Petitioners therefore most humbly pray this Hono<g ref="char:EOLhyphen"/>rable Assembly to send for the said</hi> Thomas Gray <hi>to an<g ref="char:EOLhyphen"/>swer the premisses, that he may receive such condigne pu<g ref="char:EOLhyphen"/>nishment for his offences, and your Petitioners such re<g ref="char:EOLhyphen"/>liefe and comfort both in soule and body <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y his removall; and placing a<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>le and conscientious Minister in the said Parish, as to Iustice and equity, and your great wisedomes shall seeme meet.</hi>
+            </p>
+            <closer>And your Petitioners shall ever pray, &amp;c.</closer>
+         </div>
+         <div type="grievances">
+            <head>Articles exhibited by the Parishioners of <hi>Pont-Iland</hi> in the County of <hi>Northumberland,</hi> a<g ref="char:EOLhyphen"/>gainst <hi>Thomas Gray</hi> Vicar of the said Parish.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Nprimis,</hi> That the said <hi>Thomas Gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y</hi> being Vic<g ref="char:EOLhyphen"/>car of <hi>Edlingham</hi> in the County of <hi>Northumber<g ref="char:EOLhyphen"/>land,</hi> did resigne the same unto one Mr. <hi>Charles Oxley</hi> the then Incumbent Viccar of <hi>Pont-Island</hi> aforesaid, and payd likewise to him 200. l. or some such like summe of ready money part of his wifes porti<g ref="char:EOLhyphen"/>on for and in consideration of ths said Viccaridge of <hi>Pont-I<g ref="char:EOLhyphen"/>land,</hi> whereby about 15. or 16. yeares since he was institu<g ref="char:EOLhyphen"/>ted into the said Viccaridge of <hi>Pont-Island,</hi> and so Symonia<g ref="char:EOLhyphen"/>cally became Vicar thereof, which ever since he hath enjoyed.</p>
+            <p n="2">2. That the said <hi>Thomas Grey</hi> is a Bastard, the supposed base Sonne of one <hi>Phillip Grey</hi> Esq. and a poore meane woman an Alewife, whereby he being not capable of the Ministery, di<g ref="char:EOLhyphen"/>vers in the Parish were exceedingly offended, that they should be constrained to receive the holy Sacraments from, and the soules be committed to the charge of one who ought not to enter into the Congregation of the Lord.</p>
+            <p n="3">3. That the Communion Table in the said Church having alwaies stood in the body of the Church, that the Minister
+<pb facs="tcp:156540:3"/> might stand at the North side at the time of the administrati<g ref="char:EOLhyphen"/>on of the holy Communion, according to the Book of Com<g ref="char:EOLhyphen"/>mon Prayer and Canon in that ease provided: The said <hi>Tho: Gray</hi> caused the Table to be removed and placed it Alterwise close to the wall of the East end of the Quire, according to the Lord of <hi>Canterburies</hi> fashion, as he himselfe said and did Officiate thereat with his face to the East, and backe to the people at the Administration of the holy Communion, where<g ref="char:EOLhyphen"/>by divers in the Parish, did absence themselves from comming to the Sacrament, and to divers other it became a stumbling Blocke, and Rocke of offence, to the great scandall of our Re<g ref="char:EOLhyphen"/>ligion, and rejoycing and encrease of Papists, with whom he was very conversant and familiar.</p>
+            <p n="4">4. That the sayd <hi>Thomas Gray</hi> did usually at certaine set times and Festivals, goe up to the said Altar in his Surplice, Hood, Tipper, farre distant and remote from the Congrega<g ref="char:EOLhyphen"/>tion, and read and sung a second Service as he called it, a thing never heard of in that Church before in the memorie of man<g ref="char:EOLhyphen"/>to the great amazment of the people, who could neither see him, nor vnderstand what he sung or sayd, only that they heard a great noyse, full of confusion and clamour.</p>
+            <p n="5">5. That the said <hi>Thomas Gray</hi> being earnestly intreated by the parish, either to suffer a Lecturer to preach in the sayd Church on the afternoones of the Lords day, or to Lecture to them himselfe, did upon a large contrib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of the people, promise to preach constantly himselfe which for a little while about a quarter of a yeare he did, but afterwards discontinued altogether himselfe, and would not suffer any other to preach, whereby the Parish was not onely robbed by him of the word of God the meanes of salvation, to their great discon<g ref="char:EOLhyphen"/>tent and trouble, but also usually there was no prayers nor ser<g ref="char:EOLhyphen"/>vice at all read in the said Church in the afternoone.</p>
+            <p n="6">6. That the sayd <hi>Thomas Gray</hi> did preach in the sayd Church in defence of Auricular confession, Altars, praying to the East, and did highly commend the reverend and learned
+<pb facs="tcp:156540:4"/> Bishops and Prebends of <hi>Durham,</hi> (as he called them) for that they had set up and restored the Altar in the Cathedrall Church, and taken away the Communion Table, saying that Altars were altogether used in the best and primitive times, and so continued by all antiquity, untill of late <hi>Calvin</hi> broa<g ref="char:EOLhyphen"/>ched a new Doctrine, and brought in Tables into Churches, so that <hi>ab initio non fuit sic,</hi> now there was blessed be God, assu<g ref="char:EOLhyphen"/>red hopes of having the true Religion planted amongst us, likewise he uttered words to that effect in the presence of an ancient papist, very hotly arguing wilh one of the said parish in defence of Altars.</p>
+            <p n="7">7. That the said <hi>Thomas Gray,</hi> being not contented with the said Viccaridge, procured for himselfe another Viccaridge called <hi>Chillingham,</hi> which he still holdeth contrary to the Lawes, which saith▪ no man shall hold two Viccarages and became a Farmer of a place called <hi>Horton,</hi> where he Lived non-resident from both the said Viccarages for divers yeares and also the said <hi>Gray</hi> became Steward of all the Lord <hi>Grayes</hi> Estate in the North, and Farmer or disposer of divers Tithes, as of the Parishes of <hi>Emilton, Stanington,</hi> and <hi>Pont-Island;</hi> where he also now Farmes Lands to the Value of about 150, l. <hi>Per. annum,</hi> by which Farmes and vndertakings, he Lived for many yeares out of the said Parish, and left, the Cure vnpro<g ref="char:EOLhyphen"/>vided, so as for divers Lords Dayes, there was neither Ser<g ref="char:EOLhyphen"/>vice nor Sermon, for that he had hired a Farme, bought a piece piece of Ground, and not fiue, but many Yokes of Oxon, and could not come to the great offence, of the godly and well disposed person<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, scandall of Religion, increase of Athisme, &amp; ncouragement of Papists.</p>
+            <p n="8">8. That the said <hi>Grey,</hi> hath greatly oppressed the said Parish especially the poorer sort, by his said Farme of 150. l. Land where they used to have both Grasse and Hay for their Catteil which now they cannot get but are forced to seeke elsewhere at excessive Rates, for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the said <hi>Gray</hi> hath ploughed up all those Meadowes to the great enriching of himselfe and impo<g ref="char:EOLhyphen"/>verishing
+<pb facs="tcp:156540:4"/> of them, and was by his framing and disposing the Tithe Corne, Lambe, and Wooll of the said parish, and ta<g ref="char:EOLhyphen"/>king them from the severall Towns and places, and inhaunsing them to vnreasonable Rates, never the like of which was payd before.</p>
+            <p n="9">9. That the said <hi>Thomas Gray</hi> being an English man some<g ref="char:EOLhyphen"/>times of the Vniversity of <hi>Cambrdge.</hi> declined the said Vni<g ref="char:EOLhyphen"/>versity, and did goe into <hi>Scotland,</hi> where he took (as he said at his returne) the degree of Docter in Divinity and procu<g ref="char:EOLhyphen"/>red himselfe to be made Justice of the peace for the County of <hi>Northumberland,</hi> and did report and averre that he was the Kings Chaplaine, and vsually so Signified in his prayer before Sermon; though indeed he neither was Chaplaine in Ordinary or extraordinary to his Majesty. but this he did that by such his Honour and Authority he might the better keepe his Parishoners in Subjection by his grandure, &amp; the said <hi>Gray</hi> during the time of his being Justice of the peace, Doctor and supposed Chaplaine to his Majesty, did put his Children to Schoole in a convict Papists house to a popish Schoolemaster, supposed to be a popish Priest, and amongst them a Jesuite, to the great scandall of our Religion and per<g ref="char:EOLhyphen"/>verting of Justice, and the manifest violation of his Oath at his admission to be Iustice of the peace, whereby he was ty<g ref="char:EOLhyphen"/>ed to a strict observation and execution of the Lawes of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> by which his great familiarity with papists, especially with one <hi>Roger Withrington,</hi> most scandalous and dange<g ref="char:EOLhyphen"/>rous of all the rest, having beene twice confined for matters against the State, and by neglect of his pastorall charge, ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cution of Justice, and scandall both in life and doctrine <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t was suspected in the parish, and by men of the best quality in the Cuontry. that he the sayd <hi>Gray,</hi> was an absolute heare p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>pist or a meere Athiest.</p>
+            <p n="10">10. That by such exorbitant impious and irreligious Acts of the said <hi>Gray,</hi> divers of the said Parish refused to come to the said Church, their consciences not suffering them either to
+<pb facs="tcp:156540:5"/> heare or Communicate with a man so extreamly scandalous, both in life and doctrine. And others having beene formerly disappointed, and not knowing whether they should have ei<g ref="char:EOLhyphen"/>ther Sermon or Service, when they came to Church▪ did goe to other neighbour Parishes where they might heare the word of God, and receive the holy Communion with comfort, for which and no other cause they were convented in divers Eclesiasticall Courts, and persecuted with Pursevants of the high Commission and at last excommunicated, and some of them stand still excommunicate to this day for the same.</p>
+            <p n="11">11. That the said Doctor <hi>Gray</hi> by his earnest Solicitation, faithfull promises, and corrupting a Scottish Quarter-master, did receive 180 l. o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> there abouts from the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cots, to be paid un<g ref="char:EOLhyphen"/>to the said Parish, and other places adjoyning, for Hay. Oats and other losses and charges, which the said Parish had under<g ref="char:EOLhyphen"/>gone by reason of the Earle of <hi>Carlils</hi> Regiment, who then billeted there, yet notwithstanding the sayd <hi>Gray</hi> concealed the receipt thereof from the Parish, and when some of the Parish had notice and intelligence thereof, and did thereupon demand the money of the said <hi>Gray,</hi> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> altogether refused to repay the said money or make any satisfaction, and still detai<g ref="char:EOLhyphen"/>neth the same, whereby he hath couzned both the Scots in discharging their credits, and faythfull ingagements, to the sayd Parish, and the other places, and cheated them in defrau<g ref="char:EOLhyphen"/>ding them of their moneys.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
